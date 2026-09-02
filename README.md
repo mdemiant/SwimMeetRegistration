@@ -14,16 +14,23 @@ This project is very interesting because organizing a competition involves more 
 The main purpose of this project is to simulate a real-life problem or system in order to learn how it works and understand the underlying processes involved, while simultaneously applying lessons learned in programming classes.
 
 Algorithm:
+
 1.	Start the program
 2.	Display competition information and requirements (costs, available events, time limits, etc.)
+
 Input:
-3.	 Enter the swimmer's name
-4.	 Enter their age
-5.	 Have swimmers select their events
-6.	 Have them enter the times for each event
-Process:
-7.	 Determine their category based on their age
-8.	 Organize swimmers into heats for each event based on their times
+
+4.	 Enter the swimmer's name
+5.	 Enter their age
+6.	 Have swimmers select their events
+7.	 Have them enter the times for each event
+   
+Process
+
+9.	 Determine their category based on their age
+10.	 Organize swimmers into heats for each event based on their times
+    
 Output:
-9.	 Generate the swimmer's final registration record, showing the schedule they are competing
-10.	 Generate the final schedule with all swimmers organized into heats for each event
+
+12.	 Generate the swimmer's final registration record, showing the schedule they are competing
+13.	 Generate the final schedule with all swimmers organized into heats for each event
