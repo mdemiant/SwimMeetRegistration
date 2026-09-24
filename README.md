@@ -1,3 +1,5 @@
+SwimMeetRegistration
+
 Swimming competitions are events where swimmers compete across various disciplines (butterfly, backstroke, breaststroke, freestyle) and distances (50, 100, 200, 400, 800, and 1500 meters); swimmers must register for their chosen events and record their times for each one.
 
 Once swimmers have recorded their times, they are organized into heats—each consisting of eight swimmers assigned to specific lanes—based on those previously recorded times.
